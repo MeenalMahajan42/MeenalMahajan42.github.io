@@ -8,4 +8,4 @@
 
 This is the professional portfolio website for **Meenal Mahajan**, an accomplished Chemistry educator with over 15 years of experience in CBSE senior secondary education. The website showcases her extensive teaching experience, qualifications, achievements, and ongoing work as a digital content creator.
 
-**[Portfolio Website](https://meenalmahajan.github.io)**
+**[Portfolio Website](https://meenalmahajan42.github.io)**
